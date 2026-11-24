@@ -4,6 +4,8 @@ This is a mod framework being designed to add in various features into DQX such 
 # Installation
 Download the ZIP file from the latest release and place `dqx-toolkit.ini` and `d3d9.dll` in your `SquareEnix\DRAGON QUEST X\Game` folder. Back up your original `d3d9.dll` and if you want to uninstall remove the toolkit files and then place your original back in the Game folder.
 
+Tested only on Windows 11, I have no plans to implement for other platforms at the moment.
+
 # Usage
 Press F11 to bring up the Questers Toolkit UI in-game and enable or adjust elements as you see fit.
 
