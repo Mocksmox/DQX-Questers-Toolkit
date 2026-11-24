@@ -7,4 +7,10 @@ Download the ZIP file from the latest release and place `dqx-toolkit.ini` and `d
 # Usage
 Press F11 to bring up the Questers Toolkit UI in-game and enable or adjust elements as you see fit.
 
+<img src="images/toolkit-UI.png" alt="Questers Toolkit UI" width="800">
+
+
+<img src="images/chat-example.png" alt="Chat Overlay" width="800">
+
+
 
